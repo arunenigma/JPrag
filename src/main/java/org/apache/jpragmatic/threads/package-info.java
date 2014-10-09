@@ -5,4 +5,4 @@
  * @author arunprasathshankar
  *
  */
-package org.apache.algos.trees;
+package org.apache.jpragmatic.threads;

@@ -1,4 +1,4 @@
-package org.apache.JPrag.threads;
+package org.apache.jpragmatic.threads;
 
 class ThreadEx extends Thread {
 	ThreadEx() {

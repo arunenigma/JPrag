@@ -1,4 +1,4 @@
-package org.apache.JPrag.threads;
+package org.apache.jpragmatic.threads;
 
 class RunnableThread implements Runnable {
 	Thread runner;

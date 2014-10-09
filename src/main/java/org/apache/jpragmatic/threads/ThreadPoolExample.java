@@ -1,4 +1,4 @@
-package org.apache.JPrag.threads;
+package org.apache.jpragmatic.threads;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

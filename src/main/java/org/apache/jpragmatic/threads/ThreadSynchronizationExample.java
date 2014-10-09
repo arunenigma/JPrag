@@ -1,4 +1,4 @@
-package org.apache.JPrag.threads;
+package org.apache.jpragmatic.threads;
 
 public class ThreadSynchronizationExample extends Thread {
 	private static String[] tokens = "I believe I can fly; I believe I can touch the sky!".split(" ");
